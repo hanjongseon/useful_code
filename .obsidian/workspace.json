@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "c386dc493961db7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "186ac9ce5b619e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a369de60b5d38267",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2a816e1b1d6901e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pymongo/json file insert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "892a669cd0ccb97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8c0d721dda58af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b96d9d5724917dd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74a8666d109eb8f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98a3270967202d2b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ad3f642f2a7d4a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c24d9e6d0531328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dc835e452f694e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pymongo/json file insert.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b407b79ba8242b18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pymongo/json file insert.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efc64d4784d9e67f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efcf0cc14c8c5a40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pymongo/json file insert.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b96d9d5724917dd9",
+  "lastOpenFiles": [
+    "무제파일.md",
+    "pymongo/json file insert.md"
+  ]
+}
